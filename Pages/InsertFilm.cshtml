@@ -1,0 +1,73 @@
+@page
+@using Films.Models
+@model Films.Pages.InsertFilm
+<!DOCTYPE html>
+<h1>Insert Film</h1>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="~/css/style.css">
+</head>
+<form method="post">
+    
+    <div>
+        
+        <label for="Title">Title:</label>
+        <input id="Title" name="tbxTitle" / required>
+
+        <label for="ReleaseDate">Release Date:</label>
+        <input type="date" id="ReleaseDate" name="ReleaseDate" required>
+
+        <label for="Genre">Genre:</label>
+       <select id="Genre" name="Genre" required>
+            <option value="Sci-Fi">Sci-Fi</option>
+            <option value="Horror">Horror</option>
+            <option value="Action">Action</option>
+            <option value="Comedy">Comedy</option>
+            <option value="Romance">Romance</option>
+            <option value="Fantasy">Fantasy</option>
+            <option value="Western">Western</option>
+            <option value="Mystery">Mystery</option>
+            <option value="Thriller">Thriller</option>
+            <option value="Drama">Drama</option>
+            <option value="Musical">Musical</option>
+
+
+        </select>
+
+        <label for="AgeRating">Age Rating:</label>
+        <select id="AgeRating" name="AgeRating" required>
+           <option value="U">U</option>
+            <option value="PG">PG</option>
+            <option value="12-A">12-A</option>
+            <option value="15">15</option>
+            <option value="18">18</option>
+
+        </select>
+
+        <label for="Rating">Rating:</label>
+        <input type="number" id="Rating" name="Rating" step="0.1" min="0" max="10">
+
+      
+        <label for="Actor">Actor:</label>
+        @Html.AntiForgeryToken()
+        <select id="Actor" name="Actor" required>
+            @if (Model.Actors != null)
+            {
+                foreach (var actor in Model.Actors)
+                {
+                    <option value="@actor.Key">@actor.Value.Forename @actor.Value.Surname</option>
+                }
+            }
+            else
+            {
+                // Handle the case when Model.Actors is null
+            }
+
+        </select> 
+
+    </div>
+
+    </div>
+
+    <button type="submit">Submit</button>
+</form> 

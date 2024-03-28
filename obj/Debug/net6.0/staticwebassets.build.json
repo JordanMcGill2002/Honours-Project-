@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "MpOMWbeuowZ6QUrT/dBUiRmxJ2UJy1W/xt2aD9xY3o8=",
+  "Source": "HonoursProjectNoSQL",
+  "BasePath": "_content/HonoursProjectNoSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HonoursProjectNoSQL\\wwwroot",
+      "Source": "HonoursProjectNoSQL",
+      "ContentRoot": "D:\\Honours Project Praticle\\HonoursProjectNoSQL - Copy\\wwwroot\\",
+      "BasePath": "_content/HonoursProjectNoSQL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Honours Project Praticle\\HonoursProjectNoSQL - Copy\\wwwroot\\css\\style.css",
+      "SourceId": "HonoursProjectNoSQL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Honours Project Praticle\\HonoursProjectNoSQL - Copy\\wwwroot\\",
+      "BasePath": "_content/HonoursProjectNoSQL",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

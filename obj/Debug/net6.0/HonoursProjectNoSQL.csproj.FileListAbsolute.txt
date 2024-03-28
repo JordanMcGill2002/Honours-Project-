@@ -1,0 +1,181 @@
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\appsettings.Development.json
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\appsettings.json
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.staticwebassets.runtime.json
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.exe
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.deps.json
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.runtimeconfig.json
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.pdb
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\DnsClient.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\SharpCompress.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\Snappier.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\ZstdSharp.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.AssemblyReference.cache
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.AssemblyInfoInputs.cache
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.AssemblyInfo.cs
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.CoreCompileInputs.cache
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.MvcApplicationPartsAssemblyInfo.cache
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.RazorAssemblyInfo.cache
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.RazorAssemblyInfo.cs
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets.build.json
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets.development.json
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\scopedcss\bundle\HonoursProjectNoSQL.styles.css
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.CopyComplete
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\refint\HonoursProjectNoSQL.dll
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.pdb
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.genruntimeconfig.cache
+D:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\ref\HonoursProjectNoSQL.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\appsettings.Development.json
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\appsettings.json
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.staticwebassets.runtime.json
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.exe
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.deps.json
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.runtimeconfig.json
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.pdb
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\AWSSDK.Core.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\DnsClient.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Bson.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Driver.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\SharpCompress.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\Snappier.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\ZstdSharp.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+F:\Finished Praticle Page\HonoursProjectNoSQL\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.AssemblyReference.cache
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.AssemblyInfoInputs.cache
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.AssemblyInfo.cs
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.CoreCompileInputs.cache
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.MvcApplicationPartsAssemblyInfo.cache
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.RazorAssemblyInfo.cache
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.RazorAssemblyInfo.cs
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets.build.json
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets.development.json
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets\msbuild.HonoursProjectNoSQL.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets\msbuild.build.HonoursProjectNoSQL.props
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HonoursProjectNoSQL.props
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HonoursProjectNoSQL.props
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\scopedcss\bundle\HonoursProjectNoSQL.styles.css
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursP.4D84E1DB.Up2Date
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\refint\HonoursProjectNoSQL.dll
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.pdb
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.genruntimeconfig.cache
+F:\Finished Praticle Page\HonoursProjectNoSQL\obj\Debug\net6.0\ref\HonoursProjectNoSQL.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\appsettings.Development.json
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\appsettings.json
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.staticwebassets.runtime.json
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.exe
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.deps.json
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.runtimeconfig.json
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\HonoursProjectNoSQL.pdb
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\AWSSDK.Core.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\DnsClient.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Bson.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Driver.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\SharpCompress.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\Snappier.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\ZstdSharp.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+F:\Honours Project Praticle\HonoursProjectNoSQL\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.AssemblyReference.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.AssemblyInfoInputs.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.AssemblyInfo.cs
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.CoreCompileInputs.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.MvcApplicationPartsAssemblyInfo.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.RazorAssemblyInfo.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.RazorAssemblyInfo.cs
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets.build.json
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\staticwebassets.development.json
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\scopedcss\bundle\HonoursProjectNoSQL.styles.css
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.CopyComplete
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\refint\HonoursProjectNoSQL.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.pdb
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\HonoursProjectNoSQL.genruntimeconfig.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL\obj\Debug\net6.0\ref\HonoursProjectNoSQL.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\appsettings.Development.json
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\appsettings.json
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\HonoursProjectNoSQL.staticwebassets.runtime.json
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\HonoursProjectNoSQL.exe
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\HonoursProjectNoSQL.deps.json
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\HonoursProjectNoSQL.runtimeconfig.json
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\HonoursProjectNoSQL.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\HonoursProjectNoSQL.pdb
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\DnsClient.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\SharpCompress.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\Snappier.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\ZstdSharp.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.AssemblyReference.cache
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.AssemblyInfoInputs.cache
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.AssemblyInfo.cs
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.CoreCompileInputs.cache
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.MvcApplicationPartsAssemblyInfo.cache
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.RazorAssemblyInfo.cache
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.RazorAssemblyInfo.cs
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\staticwebassets.build.json
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\staticwebassets.development.json
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\scopedcss\bundle\HonoursProjectNoSQL.styles.css
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.CopyComplete
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\refint\HonoursProjectNoSQL.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.pdb
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.genruntimeconfig.cache
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\ref\HonoursProjectNoSQL.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Honours Project Praticle\HonoursProjectNoSQL - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.AssemblyReference.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.AssemblyInfoInputs.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.AssemblyInfo.cs
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.csproj.CoreCompileInputs.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.MvcApplicationPartsAssemblyInfo.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.RazorAssemblyInfo.cache
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.RazorAssemblyInfo.cs
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\refint\HonoursProjectNoSQL.dll
+F:\Honours Project Praticle\HonoursProjectNoSQL - Copy\obj\Debug\net6.0\HonoursProjectNoSQL.pdb

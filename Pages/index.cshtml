@@ -1,0 +1,281 @@
+@page
+@model Films.Pages.IndexModel
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>All Films</title>
+    <link rel="stylesheet" type="text/css" href="~/css/style.css">
+</head>
+
+<style>
+    .search-bar {
+        overflow: hidden;
+        background-color: #e9e9e9;
+        padding-left: 1000px;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 5px 10px;
+        font-size: 16px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: #0bac0b;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        margin: 5px;
+    }
+
+    .btn:hover {
+        background-color: #0bac0b;
+    }
+
+    .btn:active {
+        background-color: #0bac0b;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+    }
+
+    .search-bar {
+        width: 200px;
+        padding: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+    }
+
+    #select {
+
+        margin-left: 155px;
+    }
+
+    #Bulk_Buttons {
+        margin-bottom: 15px;
+        margin-left: 155px;
+    }
+
+    #Bulk_ButtonsUpdate {
+
+        margin-left: 145px;
+    }
+
+    #Bulk_ButtonsDelete {
+
+        margin-right: 500px;
+    }
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #ccc;
+        padding: 20px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #Search form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #select {
+        margin-right: 156px;
+        /* Adjust the value as needed */
+        width: 221px;
+    }
+
+    th {
+        background-color: #0bac0b;
+        /* Green background */
+        color: white;
+        /* White text color */
+        text-transform: uppercase;
+        /* Make the header texts uppercase */
+    }
+
+.center-screen {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    
+</style>
+
+<body>
+    <h1>All Films</h1>
+    <br>
+    <div class="header">
+
+        <form action="~/InsertBulk" method="Post">
+            @Html.AntiForgeryToken()
+            <label for="recordCount"></label><br>
+            <input type="text" id="recordCount" name="recordCount" placeholder="   Number of Inserts"
+                onkeypress="return event.charCode >= 48 && event.charCode <= 57" required><br>
+            <input type="submit" value="Insert Records" class="btn">
+
+            @{
+                var alert = TempData["MessageInsert"] as string;
+            }
+
+            @if (!string.IsNullOrEmpty(alert))
+            {
+                <script type="text/javascript">
+                    alert("@Html.Raw(alert)");
+                </script>
+            }
+        </form>
+        <form action="~/UpdateBulk" method="Post">
+            @Html.AntiForgeryToken()
+            <label for="recordCount"></label><br>
+            <input type="text" id="recordCount" name="recordCount" placeholder="   Number of Updates"
+                onkeypress="return event.charCode >= 48 && event.charCode <= 57" required><br>
+            <input type="submit" value="Update Records" class="btn">
+
+            @{
+                var alertUpdate = TempData["MessageUpdate"] as string;
+            }
+
+            @if (!string.IsNullOrEmpty(alertUpdate))
+            {
+                <script type="text/javascript">
+                    alert("@Html.Raw(alertUpdate)");
+                </script>
+            }
+
+
+        </form>
+        <form action="~/DeleteBulk" method="Post">
+            @Html.AntiForgeryToken()
+            <label for="recordCount"></label><br>
+            <input type="text" id="recordCount" name="recordCount" placeholder="   Number of Deletes"
+                onkeypress="return event.charCode >= 48 && event.charCode <= 57" required><br>
+            <input type="submit" value="Delete Records" class="btn" id="bulkButtons">
+
+            @{
+                var alertDelete = TempData["MessageDelete"] as string;
+            }
+
+            @if (!string.IsNullOrEmpty(alertDelete))
+            {
+                <script type="text/javascript">
+                    alert("@Html.Raw(alertDelete)");
+                </script>
+            }
+
+        </form>
+
+    </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div id="Search">
+        <form method="get">
+            <select name="SearchCriteria" class="search-bar" id="select" onchange="changeInputField(this)">
+                <option value="Title">Title</option>
+                <option value="Genre">Genre</option>
+                <option value="Rating">Rating</option>
+            </select>
+            <input type="text" name="SearchQuery" id="SearchQuery" placeholder="Search..." value="@Model.SearchQuery"
+                class="search-bar">
+            <select name="Genre" id="Genre" class="search-bar" style="display: none;">
+                <option value="Sci-Fi">Sci-Fi</option>
+                <option value="Horror">Horror</option>
+                <option value="Action">Action</option>
+                <option value="Comedy">Comedy</option>
+                <option value="Romance">Romance</option>
+                <option value="Fantasy">Fantasy</option>
+                <option value="Western">Western</option>
+                <option value="Mystery">Mystery</option>
+                <option value="Thriller">Thriller</option>
+                <option value="Drama">Drama</option>
+                <option value="Musical">Musical</option>
+
+            </select>
+            <input type="submit" value="Search" class="btn Insert" id="btn_submit">
+        </form>
+
+        <br>
+        <script>
+    function changeInputField(select) {
+        var value = select.value;
+        var textInput = document.getElementById('SearchQuery');
+        var selectInput = document.getElementById('Genre');
+
+        if (value === 'Genre') {
+            textInput.style.display = 'none';
+            selectInput.style.display = 'block';
+        } else {
+            textInput.style.display = 'block';
+            selectInput.style.display = 'none';
+        }
+    }
+
+    // Call the function when the window loads
+    window.onload = function() {
+        changeInputField(document.getElementById('select'));
+    };
+</script>
+
+
+
+
+        <div id="Insert_div" class="center-screen">
+            <a href="InsertFilm" class="btn Insert">Insert New Film</a>
+        </div>
+        <br>
+        <table>
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Release Date</th>
+                    <th>Genre</th>
+                    <th>Age Rating</th>
+                    <th>Rating</th>
+                    <th>Actor Forename</th>
+                    <th>Actor Surname</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var film in Model.Films)
+                {
+                    var actor = Model.Actors[film.Actor_Id];
+                    <tr>
+                        <td>@film.Title</td>
+                        <td>@film.ReleaseDate.ToString("dd/MM/yyyy")</td>
+                        <td>@film.Genre</td>
+                        <td>@film.AgeRating</td>
+                        <td>@film.Rating.ToString()/10</td>
+                        <td>@actor.Forename</td>
+                        <td>@actor.Surname</td>
+                        <td>
+                            <div id="Insert_div">
+                                <a href="DeleteFilm?id=@film._id" class="btn">Delete</a>
+                            </div>
+                            <div id="Insert_div">
+                                <a href="UpdateFilm?id=@film._id" class="btn">Update</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+</body>
+
+</html>

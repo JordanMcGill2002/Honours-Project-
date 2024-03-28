@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Honours Project Praticle\\HonoursProjectNoSQL - Copy\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HonoursProjectNoSQL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HonoursProjectNoSQL.props",
+      "PackagePath": "build\\HonoursProjectNoSQL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HonoursProjectNoSQL.props",
+      "PackagePath": "buildMultiTargeting\\HonoursProjectNoSQL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HonoursProjectNoSQL.props",
+      "PackagePath": "buildTransitive\\HonoursProjectNoSQL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

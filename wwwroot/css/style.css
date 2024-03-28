@@ -1,0 +1,36 @@
+/* This is the css file for the html page */
+
+/* Select the header element and apply some styles */
+h1 {
+  background-color: #333; /* Dark gray background */
+  color: white; /* White text color */
+  font-size: 36px; /* Large font size */
+  padding: 20px; /* Some space around the text */
+  text-align: center; /* Center the text */
+}
+
+/* Select the table element and apply some styles */
+table {
+  border-collapse: collapse; /* Remove the gaps between the cells */
+  width: 80%; /* Set the table width to 80% of the parent element */
+  margin: 0 auto; /* Center the table horizontally */
+}
+
+/* Select the table cells and apply some styles */
+td, th {
+  border: 1px solid #ddd; /* Add a thin border around the cells */
+  padding: 10px; /* Add some space around the content */
+  text-align: left; /* Align the text to the left */
+}
+
+/* Select the table header cells and apply some styles */
+th {
+  background-color: #4CAF50; /* Green background */
+  color: white; /* White text color */
+  text-transform: uppercase; /* Make the header texts uppercase */
+}
+
+* {
+  font-family: Arial, sans-serif; /* Use a sans-serif font as a fallback */
+  .
+}

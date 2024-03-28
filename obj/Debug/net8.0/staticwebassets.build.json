@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "qK3Wtyty52rAb5/7xlJtXySK6BiJkpqvQaiTB/SPkcE=",
+  "Source": "HonoursProjectNoSQL",
+  "BasePath": "_content/HonoursProjectNoSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HonoursProjectNoSQL\\wwwroot",
+      "Source": "HonoursProjectNoSQL",
+      "ContentRoot": "D:\\Honours Project Praticle\\HonoursProjectNoSQL - Copy\\wwwroot\\",
+      "BasePath": "_content/HonoursProjectNoSQL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Honours Project Praticle\\HonoursProjectNoSQL - Copy\\wwwroot\\css\\style.css",
+      "SourceId": "HonoursProjectNoSQL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Honours Project Praticle\\HonoursProjectNoSQL - Copy\\wwwroot\\",
+      "BasePath": "_content/HonoursProjectNoSQL",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
